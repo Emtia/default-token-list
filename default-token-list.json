@@ -1,0 +1,97 @@
+{
+  "name": "Emtia Token List",
+  "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/img/emtia.png",
+  "keywords": [
+    "emtia",
+    "commdity",
+    "swap"
+  ],
+  "timestamp": "2020-09-20T00:00:00+00:00",
+  "tokens": [
+    {
+      "name": "Emtia Token",
+      "address": "0x057f86d50268077e9438262cb37201539fdcbd74",
+      "symbol": "EMTIA",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0x057f86d50268077e9438262cb37201539fdcbd74.png"
+    },
+    {
+      "name": "ALTINLIRA",
+      "address": "0x61561529350276b2d44227a078b248d52c67b1dc",
+      "symbol": "XAL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0x61561529350276b2d44227a078b248d52c67b1dc.png"
+    },
+    {
+      "name": "ARGENT",
+      "address": "0xaed4370b3d461b9cf2e4f257a4f265a4f4248b22",
+      "symbol": "XAG",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0xaed4370b3d461b9cf2e4f257a4f265a4f4248b22.png"
+    },
+    {
+      "name": "CUPRUM",
+      "address": "0x23fa450648e23b657ae40b42d789cf6712ac2732",
+      "symbol": "XCU",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0x23fa450648e23b657ae40b42d789cf6712ac2732.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F.png"
+    },
+    {
+      "name": "Gold Tether",
+      "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
+      "symbol": "XAUt",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0x4922a015c4407F87432B179bb209e125432E4a2A.png"
+    },
+    {
+      "name": "Paxos Gold",
+      "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+      "symbol": "PAXG",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Emtia/default-token-list/main/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
